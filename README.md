@@ -7,11 +7,10 @@ As we expected, the CNN is looking for specific features. In the example below, 
 ![alt text](https://github.com/nickbiso/Keras-Class-Activation-Map/blob/master/readme_images/output2.jpeg)
 ![alt text](https://github.com/nickbiso/Keras-Class-Activation-Map/blob/master/readme_images/output3.jpeg)
 ![alt text](https://github.com/nickbiso/Keras-Class-Activation-Map/blob/master/readme_images/output4.jpeg)
-![alt text](https://github.com/nickbiso/Keras-Caltech-256/blob/master/imbalance_plot.png)
 
 ## Applying MAP to images of dogs (different breeds)
 It is interesting what the model is looking for in order to identfy the breed of the dog.
-![alt text](https://github.com/nickbiso/Keras-Class-Activation-Map/readme_images/ahd.jpeg)
-![alt text](https://github.com/nickbiso/Keras-Class-Activation-Map/readme_images/bhd.jpeg)
-![alt text](https://github.com/nickbiso/Keras-Class-Activation-Map/readme_images/fb.jpeg)
-![alt text](https://github.com/nickbiso/Keras-Class-Activation-Map/readme_images/maltest.jpeg)
+![alt text](https://github.com/nickbiso/Keras-Class-Activation-Map/blob/master/readme_images/ahd.jpeg)
+![alt text](https://github.com/nickbiso/Keras-Class-Activation-Map/blob/master/readme_images/bhd.jpeg)
+![alt text](https://github.com/nickbiso/Keras-Class-Activation-Map/blob/master/readme_images/fb.jpeg)
+![alt text](https://github.com/nickbiso/Keras-Class-Activation-Map/blob/master/readme_images/maltest.jpeg)
