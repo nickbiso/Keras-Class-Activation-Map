@@ -3,10 +3,11 @@ This is one of many ways to visualize and get insights from a Convolutional Neur
 
 ## Applying MAP to images of the same category
 As we expected, the CNN is looking for specific features. In the example below, when it sees this kind of nose/mouth area of a dog the models predicts that it is a greater swiss mountain dog.
-![alt text](https://github.com/nickbiso/Keras-Class-Activation-Map/readme_images/output1.jpeg)
-![alt text](https://github.com/nickbiso/Keras-Class-Activation-Map/readme_images/output2.jpeg)
-![alt text](https://github.com/nickbiso/Keras-Class-Activation-Map/readme_images/output3.jpeg)
-![alt text](https://github.com/nickbiso/Keras-Class-Activation-Map/readme_images/output4.jpeg)
+![alt text](https://github.com/nickbiso/Keras-Class-Activation-Map/blob/master/readme_images/output1.jpeg)
+![alt text](https://github.com/nickbiso/Keras-Class-Activation-Map/blob/master/readme_images/output2.jpeg)
+![alt text](https://github.com/nickbiso/Keras-Class-Activation-Map/blob/master/readme_images/output3.jpeg)
+![alt text](https://github.com/nickbiso/Keras-Class-Activation-Map/blob/master/readme_images/output4.jpeg)
+![alt text](https://github.com/nickbiso/Keras-Caltech-256/blob/master/imbalance_plot.png)
 
 ## Applying MAP to images of dogs (different breeds)
 It is interesting what the model is looking for in order to identfy the breed of the dog.
