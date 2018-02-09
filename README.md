@@ -5,10 +5,10 @@ This is one of many ways to visualize and get insights from a Convolutional Neur
 
 
 
-## Applying MAP to images of the same category
+## Applying MAP to images of the same category (Greater Swiss Mountain Dog)
 
 
-As we expected, the CNN is looking for specific features. In the example below, when it sees this kind of nose/mouth area of a dog the models predicts that it is a greater swiss mountain dog.
+As we expected, the CNN is looking for specific features. In the example below, when it sees this kind of nose/mouth area of a dog the models predicts that it is a Greater Swiss Mountain Dog.
 
 
 ![alt text](https://github.com/nickbiso/Keras-Class-Activation-Map/blob/master/readme_images/output1.jpeg)
