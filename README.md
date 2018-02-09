@@ -3,14 +3,14 @@ This is one of many ways to visualize and get insights from a Convolutional Neur
 
 ## Applying MAP to images of the same category
 As we expected, the CNN is looking for specific features. In the example below, when it sees this kind of nose/mouth area of a dog the models predicts that it is a greater swiss mountain dog.
-![alt text](https://github.com/nickbiso/Keras-Caltech-256/blob/master/output1.png)
-![alt text](https://github.com/nickbiso/Keras-Caltech-256/blob/master/output2.png)
-![alt text](https://github.com/nickbiso/Keras-Caltech-256/blob/master/output3.png)
-![alt text](https://github.com/nickbiso/Keras-Caltech-256/blob/master/output4.png)
+![alt text](https://github.com/nickbiso/Keras-Caltech-256/blob/master/output1.jpeg)
+![alt text](https://github.com/nickbiso/Keras-Caltech-256/blob/master/output2.jpeg)
+![alt text](https://github.com/nickbiso/Keras-Caltech-256/blob/master/output3.jpeg)
+![alt text](https://github.com/nickbiso/Keras-Caltech-256/blob/master/output4.jpeg)
 
 ## Applying MAP to images of dogs (different breeds)
 It is interesting what the model is looking for in order to identfy the breed of the dog.
-![alt text](https://github.com/nickbiso/Keras-Caltech-256/blob/master/ahd.png)
-![alt text](https://github.com/nickbiso/Keras-Caltech-256/blob/master/bhd.png)
-![alt text](https://github.com/nickbiso/Keras-Caltech-256/blob/master/fb.png)
-![alt text](https://github.com/nickbiso/Keras-Caltech-256/blob/master/maltest.png)
+![alt text](https://github.com/nickbiso/Keras-Caltech-256/blob/master/ahd.jpeg)
+![alt text](https://github.com/nickbiso/Keras-Caltech-256/blob/master/bhd.jpeg)
+![alt text](https://github.com/nickbiso/Keras-Caltech-256/blob/master/fb.jpeg)
+![alt text](https://github.com/nickbiso/Keras-Caltech-256/blob/master/maltest.jpeg)
